@@ -1,0 +1,36 @@
+_repo: Les-po-sies-de-Sapho-de-Lesbos_27308
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Rédarez Saint-Remy, Jules-Henry
+    alias: Saint-Remy, Jules-Henry Redarez
+    gutenberg_agent_id: '32619'
+    url: http://www.gutenberg.org/2009/agents/32619
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sappho
+    gutenberg_agent_id: '32618'
+    url: http://www.gutenberg.org/2009/agents/32618
+description: ''
+gutenberg_bookshelf:
+- FR Poésie
+- Poetry
+- Classical Antiquity
+gutenberg_issued: '2008-11-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27308'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sappho -- Translations into French'
+- !lcsh 'Lesbos Island (Greece) -- Poetry'
+- !lcc 'PA'
+- !lcsh 'Women -- Greece -- Poetry'
+title: Les poésies de Sapho de Lesbos
+url: http://www.gutenberg.org/ebooks/27308
